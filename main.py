@@ -7,3 +7,5 @@ while(True):
     if(count == 20):
         print("end")
         break
+
+print("追加")
