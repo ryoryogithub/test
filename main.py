@@ -7,4 +7,3 @@ while(True):
     if(count == 20):
         print("end")
         break
-
