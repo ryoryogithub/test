@@ -10,3 +10,4 @@ while(True):
 
 print("追加")
 print("2024/2/26")
+print("亮太より")
