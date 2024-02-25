@@ -9,3 +9,4 @@ while(True):
         break
 
 print("追加")
+print("2024/2/26")
